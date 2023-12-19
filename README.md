@@ -1,2 +1,1 @@
-# Hello-World
-First repo hello world
+Hi everyone! My name is Ravi Chand. I'm from Punjab, and I completed my BE from Chandigarh College of Engineering and Technology in 2022 with a CGPA of 8.1. Currently, I am working at PPN Solutions as an EPM consultant.
